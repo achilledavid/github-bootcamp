@@ -43,3 +43,7 @@ exécuter la commande git branch -d 'nom de la branche'
 ---
 
 # Create a pull request
+
+---
+
+# Pushing changes to remote
