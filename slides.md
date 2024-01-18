@@ -47,3 +47,7 @@ exécuter la commande git branch -d 'nom de la branche'
 ---
 
 # Pushing changes to remote
+
+---
+
+# Pulling changes from remote
