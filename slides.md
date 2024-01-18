@@ -79,3 +79,10 @@ Heading
 > quote
 > quote
 > quote
+
+---
+
+# Code
+```bash
+code
+```
