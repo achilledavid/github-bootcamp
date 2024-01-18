@@ -28,3 +28,9 @@ exécuter la commande git branch 'nom de la branche'
 ---
 
 # Work on a branch
+
+---
+
+# Merge branch on main
+exécuter la commande git checkout main
+exécuter la commande git merge 'nom de la branche'
