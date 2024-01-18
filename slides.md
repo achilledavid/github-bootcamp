@@ -19,3 +19,8 @@ exécuter la commande 'git status'
 # How to commit changes
 ajouter les fichiers du commit en exécutant la commande git add 'nom du fichier'
 une fois tous les fichiers ajoutés, exécuter la commande git commit -m 'nom du commit'
+
+---
+
+# Create a new branch
+exécuter la commande git branch 'nom de la branche'
