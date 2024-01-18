@@ -60,9 +60,22 @@ contenu
 ---
 
 # Lists
-contenu
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
 
 ---
 
 # Images
-contenu
+![The San Juan Mountains are beautiful!](https://cdn.backpacker.com/wp-content/uploads/2014/05/wilson-peak-autumn.jpg "San Juan Mountains")
+
+---
+
+# Headers & Quotes
+Heading
+===============
+> quote
+> quote
+> quote
+> quote
