@@ -95,3 +95,4 @@ code
 ---
 
 # How to automate issue closing
+closing issue #2
