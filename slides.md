@@ -39,3 +39,15 @@ exécuter la commande git merge 'nom de la branche'
 
 # Delete a branch
 exécuter la commande git branch -d 'nom de la branche'
+
+---
+
+# Create a pull request
+
+---
+
+# Pushing changes to remote
+
+---
+
+# Pulling changes from remote
