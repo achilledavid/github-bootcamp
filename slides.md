@@ -51,3 +51,8 @@ exécuter la commande git branch -d 'nom de la branche'
 ---
 
 # Pulling changes from remote
+
+---
+
+# Text
+contenu
