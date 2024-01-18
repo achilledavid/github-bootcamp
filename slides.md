@@ -1,11 +1,10 @@
 <!-- slides.md -->
 
 # GitHub Bootcamp
+## Achille DAVID
 
 ---
 
-## This is my slide
-
----
-
-## Happy Hacking
+# How to initialise a new repository
+ouvrir un terminal
+exécuter la commande 'git init'
