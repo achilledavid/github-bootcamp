@@ -91,3 +91,7 @@ code
 
 # Extras
 <https://www.github.com>
+
+---
+
+# How to automate issue closing
