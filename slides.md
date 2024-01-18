@@ -24,3 +24,7 @@ une fois tous les fichiers ajoutés, exécuter la commande git commit -m 'nom du
 
 # Create a new branch
 exécuter la commande git branch 'nom de la branche'
+
+---
+
+# Work on a branch
