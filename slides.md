@@ -34,3 +34,8 @@ exécuter la commande git branch 'nom de la branche'
 # Merge branch on main
 exécuter la commande git checkout main
 exécuter la commande git merge 'nom de la branche'
+
+---
+
+# Delete a branch
+exécuter la commande git branch -d 'nom de la branche'
