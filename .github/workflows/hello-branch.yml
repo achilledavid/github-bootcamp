@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main  # This workflow will only run when changes are pushed to the 'main' branch
+  pull_request:
+    branches:
+      - main  # This workflow will also run when pull requests are opened to the 'main' branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run a one-line script
+      run: echo Hello, world!
