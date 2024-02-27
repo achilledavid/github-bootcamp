@@ -96,3 +96,9 @@ code
 
 # How to automate issue closing
 closing issue #2
+
+---
+
+## Achille DAVID
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
